@@ -21,7 +21,7 @@ UI-demos
 
 ----------
 
- - **(转)[JingRound](https://github.com/isaced/JingRound)**
+ - **(摘自cocoachina)[JingRound](https://github.com/isaced/JingRound)**
 仿jing.fm的音乐播放视图，支持旋转和自定义参数。
 
 ----------
@@ -31,4 +31,8 @@ UI-demos
 
 ----------
 
+ - **(摘自cocoa china)[TPKeyboardAvoiding](https://github.com/luowei/UI-demos/tree/master/TPKeyboardAvoiding)**
+屏幕自动向上滚动键盘就不会遮挡位置当下的输入框示例
+
+----------
 
