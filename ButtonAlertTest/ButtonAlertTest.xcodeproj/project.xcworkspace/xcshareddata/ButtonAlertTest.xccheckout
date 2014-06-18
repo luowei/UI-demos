@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>138BB8AE-E5BE-4BE9-9EAE-A98737832596</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ButtonAlertTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5C717FAB-ED08-465C-9332-C38D6B8B3E8E</key>
+		<string>https://github.com/luowei/UI-demos.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ButtonAlertTest/ButtonAlertTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5C717FAB-ED08-465C-9332-C38D6B8B3E8E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/luowei/UI-demos.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5C717FAB-ED08-465C-9332-C38D6B8B3E8E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5C717FAB-ED08-465C-9332-C38D6B8B3E8E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UI-demos</string>
+		</dict>
+	</array>
+</dict>
+</plist>

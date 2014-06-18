@@ -36,3 +36,9 @@ UI-demos
 
 ----------
 
+ - **[ButtonAlertTest](https://github.com/luowei/UI-demos/tree/master/ButtonAlertTest)**
+动态添加Button和监听UIAlertView的Demo
+
+----------
+
+
