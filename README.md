@@ -45,9 +45,16 @@ UI-demos
 级联选择器的使用,及偏好设置的读取与保存
 
 ----------
-----------
 
- - **[View2TabBarView](https://github.com/luowei/UI-demos/tree/master/View2TabBarView)**
+ - **[View2TabBarView](https://github.com/luowei/UI-demos/tree/master/View2TaBBarView)**
 TabBar的使用示例
 
 ----------
+
+ - **[MapDemo](https://github.com/luowei/UI-demos/tree/master/MapDemo)**
+Map,定位，标记位置的使用示例
+
+----------
+
+
+
