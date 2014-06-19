@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>05E8E378-96A7-4D60-8359-6D5DEA859C99</string>
+	<key>IDESourceControlProjectName</key>
+	<string>View2TaBBarView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6856018F-020D-4136-B983-8A82A87888D9</key>
+		<string>https://github.com/luowei/UI-demos.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>View2TaBBarView/View2TaBBarView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6856018F-020D-4136-B983-8A82A87888D9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/luowei/UI-demos.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6856018F-020D-4136-B983-8A82A87888D9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6856018F-020D-4136-B983-8A82A87888D9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UI-demos</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -41,4 +41,8 @@ UI-demos
 
 ----------
 
+ - **[PickerViewDemo](https://github.com/luowei/UI-demos/tree/master/PickerViewDemo)**
+级联选择器的使用,及偏好设置的读取与保存
+
+----------
 
