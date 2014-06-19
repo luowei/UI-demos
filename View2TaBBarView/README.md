@@ -1,9 +1,7 @@
-PickerViewDemo
+View2TabBarView
 ========
 
-级联选择器的使用,及偏好设置的读取与保存..
+TabBar的使用示例..
 
 截图：
-![PickerViewDemo](./doc/a.png)
-![PickerViewDemo](./doc/a.gif)
-![PickerViewDemo](./doc/b.gif)
+![View2TabBarView](./doc/a.gif)
