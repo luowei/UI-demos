@@ -37,17 +37,17 @@ UI-demos
 ----------
 
  - **[ButtonAlertTest](https://github.com/luowei/UI-demos/tree/master/ButtonAlertTest)**
-动态添加Button和监听UIAlertView的Demo
+动态添加Button和监听UIAlertView的Demo,[视频讲述](http://www.tudou.com/listplay/xs8jxgy4XvQ/4WOHDJiuswg.html)
 
 ----------
 
  - **[PickerViewDemo](https://github.com/luowei/UI-demos/tree/master/PickerViewDemo)**
-级联选择器的使用,及偏好设置的读取与保存
+级联选择器的使用,及偏好设置的读取与保存,[视频讲述](http://www.tudou.com/listplay/xs8jxgy4XvQ/Q036BbFLTpg.html)
 
 ----------
 
  - **[View2TabBarView](https://github.com/luowei/UI-demos/tree/master/View2TaBBarView)**
-TabBar的使用示例
+TabBar的使用示例,[视频讲述](http://www.tudou.com/listplay/xs8jxgy4XvQ/aDbSOgIhDA4.html)
 
 ----------
 
